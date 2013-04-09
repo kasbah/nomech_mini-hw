@@ -1,11 +1,11 @@
-PCBNEW-LibModule-V1  Tue 09 Apr 2013 15:02:21 BST
+PCBNEW-LibModule-V1  Tue 09 Apr 2013 20:07:37 BST
 # encoding utf-8
 Units mm
 $INDEX
 cap-electrode_10mm
 $EndINDEX
 $MODULE cap-electrode_10mm
-Po 0 0 0 15 51641D30 00000000 ~~
+Po 0 0 0 15 516466D8 00000000 ~~
 Li cap-electrode_10mm
 Sc 0
 AR 
@@ -20,67 +20,70 @@ DS -2.467 -0.483 -2.467 -1.499 0.127 21
 DS -2.467 -1.499 -0.943 -1.499 0.127 21
 DS -0.943 -1.499 -0.943 -0.483 0.127 21
 $PAD
-Sh "1" R 4.25 1.75 0 0 0
-Dr 0 0 0
+Sh "1" R 3.5 1.75 0 0 0
+Dr 0 -1.75 0
 At SMD N 00808000
 Ne 0 ""
-Po 2.875 4.125
+Po 4.125 4.125
+.LocalClearance 0.1
 $EndPAD
 $PAD
-Sh "1" R 4.25 1.75 0 0 0
-Dr 0 0 0
+Sh "1" R 3.5 1.75 0 0 0
+Dr 0 -1.75 0
 At SMD N 00808000
 Ne 0 ""
-Po 2.875 -4.1
+Po 4.125 -4.125
+.LocalClearance 0.1
 $EndPAD
 $PAD
-Sh "1" R 4.25 1.75 0 0 0
-Dr 0 0 0
+Sh "1" R 3.5 1.75 0 0 0
+Dr 0 1.75 0
 At SMD N 00808000
 Ne 0 ""
-Po -2.875 4.125
+Po -4.125 4.125
+.LocalClearance 0.1
 $EndPAD
 $PAD
-Sh "1" R 1.75 10 0 0 0
+Sh "1" R 1.75 8.2 0 0 0
 Dr 0 0 0
-At SMD N 00808000
+At SMD N 00A08000
 Ne 0 ""
 Po -4.125 0
 $EndPAD
 $PAD
-Sh "1" R 1.75 10 0 0 0
+Sh "1" R 1.75 8.2 0 0 0
 Dr 0 0 0
-At SMD N 00888000
+At SMD N 00A08000
 Ne 0 ""
 Po 4.125 0
 $EndPAD
 $PAD
-Sh "1" R 4.25 1.75 0 0 0
+Sh "1" O 1.75 1.75 0 0 0
 Dr 0 0 0
 At SMD N 00808000
 Ne 0 ""
-Po -2.875 -4.125
+Po -4.125 -4.125
 $EndPAD
 $PAD
-Sh "1" R 4.25 1 0 0 0
+Sh "1" R 5 1.5 0 0 0
 Dr 0 0 0
 At SMD N 00808000
 Ne 0 ""
-Po 1.9 0
-$EndPAD
-$PAD
-Sh "2" R 5 1.22 0 0 0
-Dr 0 0 0
-At SMD N 00808000
-Ne 0 ""
-Po 0.1 -2
+Po 2.15 0
 $EndPAD
 $PAD
 Sh "2" R 5 1.22 0 0 0
 Dr 0 0 0
 At SMD N 00808000
 Ne 0 ""
-Po 0.1 2
+Po 0 -2
+$EndPAD
+$PAD
+Sh "2" R 5 1.22 0 0 0
+Dr 0 0 0
+At SMD N 00808000
+Ne 0 ""
+Po 0 2
 $EndPAD
 $PAD
 Sh "1" R 4.25 0.2 0 0 0
@@ -88,7 +91,7 @@ Dr 0 0 0
 At SMD N 00808000
 Ne 0 ""
 Po -1.45 0
-.LocalClearance 0.2
+.LocalClearance 0.1
 $EndPAD
 $PAD
 Sh "2" R 0.889 1.397 0 0 900
@@ -103,6 +106,35 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -1.7 0.95
+$EndPAD
+$PAD
+Sh "1" R 3.5 1.75 0 0 0
+Dr 0 1.75 0
+At SMD N 00808000
+Ne 0 ""
+Po -4.125 -4.125
+.LocalClearance 0.1
+$EndPAD
+$PAD
+Sh "1" O 1.75 1.75 0 0 0
+Dr 0 0 0
+At SMD N 00808000
+Ne 0 ""
+Po -4.125 4.125
+$EndPAD
+$PAD
+Sh "1" O 1.75 1.75 0 0 0
+Dr 0 0 0
+At SMD N 00808000
+Ne 0 ""
+Po 4.125 -4.125
+$EndPAD
+$PAD
+Sh "1" O 1.75 1.75 0 0 0
+Dr 0 0 0
+At SMD N 00808000
+Ne 0 ""
+Po 4.125 4.125
 $EndPAD
 $EndMODULE cap-electrode_10mm
 $EndLIBRARY

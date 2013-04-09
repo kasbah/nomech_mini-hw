@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Tue 09 Apr 2013 16:43:33 BST
+EESchema Schematic File Version 2  date Tue 09 Apr 2013 21:23:41 BST
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -31,6 +31,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:atmega32u4
 LIBS:USB_2b
+LIBS:nomech_mini-cache
 EELAYER 27 0
 EELAYER END
 $Descr A3 16535 11693

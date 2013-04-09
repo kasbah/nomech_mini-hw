@@ -1,4 +1,4 @@
-update=Tue 09 Apr 2013 18:29:26 BST
+update=Tue 09 Apr 2013 20:18:52 BST
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -55,7 +55,7 @@ LastNetListRead=
 UseCmpFile=1
 PadDrill=0
 PadSizeH=5
-PadSizeV=1.22
+PadSizeV=1.5
 PcbTextSizeV=2.032
 PcbTextSizeH=1.524
 PcbTextThickness=0.3048
@@ -64,8 +64,8 @@ ModuleTextSizeH=1.524
 ModuleTextSizeThickness=0.3048
 SolderMaskClearance=0.254
 SolderMaskMinWidth=0
-DrawSegmentWidth=0.381
-BoardOutlineThickness=0.381
+DrawSegmentWidth=0.1
+BoardOutlineThickness=0.1
 ModuleOutlineThickness=0.1
 [pcbnew/libraries]
 LibDir=
@@ -80,5 +80,5 @@ LibName8=led
 LibName9=dip_sockets
 LibName10=pga_sockets
 LibName11=valves
-LibName12=libs/cap-electrode
-LibName13=libs/my_dp_pcb
+LibName12=libs/my_dp_pcb
+LibName13=libs/cap-electrode
