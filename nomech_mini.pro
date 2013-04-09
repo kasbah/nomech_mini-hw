@@ -1,4 +1,4 @@
-update=Tue 09 Apr 2013 15:18:01 BST
+update=Tue 09 Apr 2013 18:29:26 BST
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -6,6 +6,8 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -45,26 +47,26 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-[general]
-version=1
+LibName31=libs/atmega32u4
+LibName32=libs/USB_2b
 [pcbnew]
 version=1
 LastNetListRead=
 UseCmpFile=1
-PadDrill=0.6
-PadSizeH=1
-PadSizeV=1
-PcbTextSizeV=1
-PcbTextSizeH=1
-PcbTextThickness=0.3
-ModuleTextSizeV=1
-ModuleTextSizeH=1
-ModuleTextSizeThickness=0.15
-SolderMaskClearance=0
+PadDrill=0
+PadSizeH=5
+PadSizeV=1.22
+PcbTextSizeV=2.032
+PcbTextSizeH=1.524
+PcbTextThickness=0.3048
+ModuleTextSizeV=1.524
+ModuleTextSizeH=1.524
+ModuleTextSizeThickness=0.3048
+SolderMaskClearance=0.254
 SolderMaskMinWidth=0
-DrawSegmentWidth=0.2
-BoardOutlineThickness=0.15
-ModuleOutlineThickness=0.15
+DrawSegmentWidth=0.381
+BoardOutlineThickness=0.381
+ModuleOutlineThickness=0.1
 [pcbnew/libraries]
 LibDir=
 LibName1=sockets
@@ -78,5 +80,5 @@ LibName8=led
 LibName9=dip_sockets
 LibName10=pga_sockets
 LibName11=valves
-LibName12=libs/dp_pcb
-LibName13=libs/cap-electrode
+LibName12=libs/cap-electrode
+LibName13=libs/my_dp_pcb

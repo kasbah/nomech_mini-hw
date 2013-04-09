@@ -1,0 +1,183 @@
+EESchema Schematic File Version 2  date Tue 09 Apr 2013 16:43:33 BST
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:atmega32u4
+LIBS:USB_2b
+EELAYER 27 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 2
+Title ""
+Date "9 apr 2013"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L LED D?
+U 1 1 515700C2
+P 4150 1600
+F 0 "D?" V 4050 1650 50  0000 C CNN
+F 1 "LED" V 4250 1700 50  0000 C CNN
+F 2 "" H 4150 1600 60  0000 C CNN
+F 3 "" H 4150 1600 60  0000 C CNN
+	1    4150 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L LED D?
+U 1 1 5157011A
+P 4400 1600
+F 0 "D?" V 4300 1650 50  0000 C CNN
+F 1 "LED" V 4500 1700 50  0000 C CNN
+F 2 "" H 4400 1600 60  0000 C CNN
+F 3 "" H 4400 1600 60  0000 C CNN
+	1    4400 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L LED D?
+U 1 1 51570120
+P 4650 1600
+F 0 "D?" V 4550 1650 50  0000 C CNN
+F 1 "LED" V 4750 1700 50  0000 C CNN
+F 2 "" H 4650 1600 60  0000 C CNN
+F 3 "" H 4650 1600 60  0000 C CNN
+	1    4650 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L LED D?
+U 1 1 51570126
+P 4900 1600
+F 0 "D?" V 4800 1650 50  0000 C CNN
+F 1 "LED" V 5000 1700 50  0000 C CNN
+F 2 "" H 4900 1600 60  0000 C CNN
+F 3 "" H 4900 1600 60  0000 C CNN
+	1    4900 1600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4150 2350 4150 2550
+Wire Wire Line
+	4150 2550 4900 2550
+Wire Wire Line
+	4900 2550 4900 2500
+Wire Wire Line
+	4650 2500 4650 2550
+Connection ~ 4650 2550
+Wire Wire Line
+	4400 2500 4400 2550
+Connection ~ 4400 2550
+Connection ~ 4550 2550
+$Comp
+L R R?
+U 1 1 51570156
+P 4150 2100
+F 0 "R?" V 4230 2100 50  0000 C CNN
+F 1 "R" V 4150 2100 50  0000 C CNN
+F 2 "" H 4150 2100 60  0000 C CNN
+F 3 "" H 4150 2100 60  0000 C CNN
+	1    4150 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4150 1800 4150 1850
+$Comp
+L R R?
+U 1 1 51570186
+P 4400 2100
+F 0 "R?" V 4480 2100 50  0000 C CNN
+F 1 "R" V 4400 2100 50  0000 C CNN
+F 2 "" H 4400 2100 60  0000 C CNN
+F 3 "" H 4400 2100 60  0000 C CNN
+	1    4400 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R?
+U 1 1 5157018C
+P 4650 2100
+F 0 "R?" V 4730 2100 50  0000 C CNN
+F 1 "R" V 4650 2100 50  0000 C CNN
+F 2 "" H 4650 2100 60  0000 C CNN
+F 3 "" H 4650 2100 60  0000 C CNN
+	1    4650 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R?
+U 1 1 51570192
+P 4900 2100
+F 0 "R?" V 4980 2100 50  0000 C CNN
+F 1 "R" V 4900 2100 50  0000 C CNN
+F 2 "" H 4900 2100 60  0000 C CNN
+F 3 "" H 4900 2100 60  0000 C CNN
+	1    4900 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4150 1400 4150 1300
+Wire Wire Line
+	3950 1300 4900 1300
+Wire Wire Line
+	4900 1300 4900 1400
+Wire Wire Line
+	4650 1400 4650 1300
+Connection ~ 4650 1300
+Wire Wire Line
+	4400 1400 4400 1300
+Connection ~ 4400 1300
+Wire Wire Line
+	3950 1150 3950 1300
+Connection ~ 4150 1300
+$Comp
+L +5V #PWR?
+U 1 1 515701DB
+P 3950 1150
+F 0 "#PWR?" H 3950 1240 20  0001 C CNN
+F 1 "+5V" H 3950 1240 30  0000 C CNN
+F 2 "" H 3950 1150 60  0000 C CNN
+F 3 "" H 3950 1150 60  0000 C CNN
+	1    3950 1150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4400 1800 4400 1850
+Wire Wire Line
+	4650 1800 4650 1850
+Wire Wire Line
+	4900 1800 4900 1850
+$EndSCHEMATC
