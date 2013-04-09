@@ -1,6 +1,6 @@
-update=Tue 09 Apr 2013 15:11:23 BST
+update=Tue 09 Apr 2013 15:18:01 BST
 version=1
-last_client=kicad
+last_client=pcbnew
 [cvpcb]
 version=1
 NetIExt=net
@@ -45,23 +45,26 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
+[general]
+version=1
 [pcbnew]
 version=1
 LastNetListRead=
-PadDrlX=320
-PadDimH=550
-PadDimV=550
-BoardThickness=620
-TxtPcbV=600
-TxtPcbH=600
-TxtModV=500
-TxtModH=500
-TxtModW=100
-VEgarde=100
-DrawLar=120
-EdgeLar=80
-TxtLar=120
-MSegLar=120
+UseCmpFile=1
+PadDrill=0.6
+PadSizeH=1
+PadSizeV=1
+PcbTextSizeV=1
+PcbTextSizeH=1
+PcbTextThickness=0.3
+ModuleTextSizeV=1
+ModuleTextSizeH=1
+ModuleTextSizeThickness=0.15
+SolderMaskClearance=0
+SolderMaskMinWidth=0
+DrawSegmentWidth=0.2
+BoardOutlineThickness=0.15
+ModuleOutlineThickness=0.15
 [pcbnew/libraries]
 LibDir=
 LibName1=sockets
@@ -75,5 +78,5 @@ LibName8=led
 LibName9=dip_sockets
 LibName10=pga_sockets
 LibName11=valves
-[general]
-version=1
+LibName12=libs/dp_pcb
+LibName13=libs/cap-electrode
