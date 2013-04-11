@@ -4900,7 +4900,7 @@
   )
 
   (module KPJA-2107SURCK (layer Back) (tedit 5166FE48) (tstamp 516717C6)
-    (at 194.325 242.2)
+    (at 146.25 106.5)
     (path /5156FF92/51670D19)
     (attr smd)
     (fp_text reference D5 (at 0.05 1.85) (layer B.SilkS)
