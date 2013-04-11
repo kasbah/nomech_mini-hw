@@ -1,11 +1,6 @@
-update=Wed 10 Apr 2013 14:33:23 BST
+update=Thu 11 Apr 2013 19:51:01 BST
 version=1
 last_client=pcbnew
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [general]
 version=1
 [eeschema]
@@ -49,13 +44,19 @@ LibName29=contrib
 LibName30=valves
 LibName31=libs/atmega32u4
 LibName32=libs/USB_2b
+LibName33=libs/cap-electrode
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [pcbnew]
 version=1
-LastNetListRead=
+LastNetListRead=nomech_mini.net
 UseCmpFile=1
 PadDrill=0
-PadSizeH=5
-PadSizeV=1.5
+PadSizeH=0.70104
+PadSizeV=1.00076
 PcbTextSizeV=2.032
 PcbTextSizeH=1.524
 PcbTextThickness=0.3048
@@ -82,3 +83,8 @@ LibName10=pga_sockets
 LibName11=valves
 LibName12=libs/my_dp_pcb
 LibName13=libs/cap-electrode
+LibName14=libs/daspilker
+LibName15=libs/open-project
+LibName16=libs/adafruit
+LibName17=libs/KPJA-2107SURCK
+LibName18=libs/NX7002AK
