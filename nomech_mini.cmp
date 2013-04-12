@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-feb-26)-stable date = Thu 11 Apr 2013 21:22:19 BST
+Cmp-Mod V01 Created by PcbNew date = Fri 12 Apr 2013 17:10:22 BST
 
 BeginCmp
 TimeStamp = /51675C98;
@@ -375,112 +375,112 @@ BeginCmp
 TimeStamp = /5166E5BB;
 Reference = E1;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer;
+IdModule  = cap-electrode_10mm_2layer_cutout;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F170;
 Reference = E2;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer;
+IdModule  = cap-electrode_10mm_2layer_cutout;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F4E9;
 Reference = E3;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer;
+IdModule  = cap-electrode_10mm_2layer_cutout;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F504;
 Reference = E4;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer;
+IdModule  = cap-electrode_10mm_2layer_cutout;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166E5C8;
 Reference = E5;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer;
+IdModule  = cap-electrode_10mm_2layer_cutout;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F176;
 Reference = E6;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer;
+IdModule  = cap-electrode_10mm_2layer_cutout;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F4EF;
 Reference = E7;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer;
+IdModule  = cap-electrode_10mm_2layer_cutout;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F50A;
 Reference = E8;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer;
+IdModule  = cap-electrode_10mm_2layer_cutout;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F0BC;
 Reference = E9;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer;
+IdModule  = cap-electrode_10mm_2layer_cutout;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F17D;
 Reference = E10;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer;
+IdModule  = cap-electrode_10mm_2layer_cutout;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F4F6;
 Reference = E11;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer;
+IdModule  = cap-electrode_10mm_2layer_cutout;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F511;
 Reference = E12;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer;
+IdModule  = cap-electrode_10mm_2layer_cutout;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F0C2;
 Reference = E13;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer;
+IdModule  = cap-electrode_10mm_2layer_cutout;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F183;
 Reference = E14;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer;
+IdModule  = cap-electrode_10mm_2layer_cutout;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F4FC;
 Reference = E15;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer;
+IdModule  = cap-electrode_10mm_2layer_cutout;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F517;
 Reference = E16;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer;
+IdModule  = cap-electrode_10mm_2layer_cutout;
 EndCmp
 
 BeginCmp
