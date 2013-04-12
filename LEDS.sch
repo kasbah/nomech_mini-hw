@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Thu 11 Apr 2013 21:49:24 BST
+EESchema Schematic File Version 2  date Fri 12 Apr 2013 22:25:08 BST
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -33,13 +33,13 @@ LIBS:atmega32u4
 LIBS:USB_2b
 LIBS:cap-electrode
 LIBS:nomech_mini-cache
-EELAYER 27 0
+EELAYER 24 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 2 2
 Title ""
-Date "11 apr 2013"
+Date "12 apr 2013"
 Rev ""
 Comp ""
 Comment1 ""
