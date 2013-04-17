@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Sat 13 Apr 2013 18:25:00 BST
+PCBNEW-LibModule-V1  Wed 17 Apr 2013 20:45:17 BST
 # encoding utf-8
 Units mm
 $INDEX
@@ -9,6 +9,7 @@ cap-electrode_10mm_2layer_cutout2
 cap-electrode_10mm_2layer_cutout3
 cap-electrode_10mm_2layer_cutout4
 cap-electrode_10mm_2layer_cutout5
+cap-electrode_12.5mm
 $EndINDEX
 $MODULE cap-electrode_10mm
 Po 0 0 0 15 51657110 00000000 ~~
@@ -1155,4 +1156,126 @@ Ne 0 ""
 Po -2.1 0
 $EndPAD
 $EndMODULE cap-electrode_10mm_2layer_cutout5
+$MODULE cap-electrode_12.5mm
+Po 0 0 0 15 516EFBA2 00000000 ~~
+Li cap-electrode_12.5mm
+Sc 0
+AR 
+Op 0 0 0
+T0 1.45 24.6 1.524 1.524 0 0.3048 N V 21 N "cap-electrode_12.5mm"
+T1 1.45 22.2 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+DS -6.25 -6.25 -6.25 6.25 0.15 21
+DS 6.25 -6.25 6.25 6.25 0.15 21
+DS -6.25 -6.25 6.25 -6.25 0.15 21
+DS -6.25 6.25 6.25 6.25 0.15 21
+DS -1.143 -0.635 1.143 -0.635 0.127 21
+DS 1.143 -0.635 1.143 0.635 0.127 21
+DS 1.143 0.635 -1.143 0.635 0.127 21
+DS -1.143 0.635 -1.143 -0.635 0.127 21
+$PAD
+Sh "1" R 0.635 1.143 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.762 0
+$EndPAD
+$PAD
+Sh "2" R 0.635 1.143 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.762 0
+$EndPAD
+$PAD
+Sh "2" R 5 1.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 2.25
+$EndPAD
+$PAD
+Sh "1" R 12.5 2.5 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.9 0
+$EndPAD
+$PAD
+Sh "2" R 5 1.25 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.05 -2.25
+$EndPAD
+$PAD
+Sh "2" R 10 2.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 16.4 0.9
+$EndPAD
+$PAD
+Sh "1" R 5 2.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.6 -5
+$EndPAD
+$PAD
+Sh "1" R 12.5 2.5 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.9 0
+$EndPAD
+$PAD
+Sh "1" R 5 2.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.7 -5
+$EndPAD
+$PAD
+Sh "1" R 5 2.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.65 5
+$EndPAD
+$PAD
+Sh "1" R 5 2.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.65 5
+$EndPAD
+$PAD
+Sh "1" R 5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.25
+$EndPAD
+$PAD
+Sh "1" R 5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.05 1.25
+$EndPAD
+$PAD
+Sh "1" R 2.8 2.5 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.6 0
+$EndPAD
+$PAD
+Sh "1" R 2.8 2.5 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.65 0
+$EndPAD
+$EndMODULE cap-electrode_12.5mm
 $EndLIBRARY
