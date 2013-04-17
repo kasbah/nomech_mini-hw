@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Sat 13 Apr 2013 18:21:11 BST
+PCBNEW-LibModule-V1  Sat 13 Apr 2013 18:25:00 BST
 # encoding utf-8
 Units mm
 $INDEX
@@ -924,7 +924,7 @@ Po 4.125 4.125
 $EndPAD
 $EndMODULE cap-electrode_10mm_2layer_cutout4
 $MODULE cap-electrode_10mm_2layer_cutout5
-Po 0 0 0 15 516993FF 00000000 ~~
+Po 0 0 0 15 516994E6 00000000 ~~
 Li cap-electrode_10mm_2layer_cutout5
 Sc 0
 AR /5166E5BB
@@ -1078,11 +1078,11 @@ Ne 1 "X1"
 Po -4.125 -4.125
 $EndPAD
 $PAD
-Sh "1" R 10 1.5 0 0 0
+Sh "1" R 5 1.5 0 0 0
 Dr 0 0 0
 At SMD N 00808000
 Ne 1 "X1"
-Po 3.9 -0.05
+Po 1.35 0
 $EndPAD
 $PAD
 Sh "2" R 5 0.875 0 0 0
@@ -1123,28 +1123,28 @@ $PAD
 Sh "2" R 3 0.875 0 0 900
 Dr 0 0 0
 At SMD N 00808000
-Ne 0 ""
+Ne 2 "Y1"
 Po 0 -3.45
 $EndPAD
 $PAD
 Sh "2" R 3 0.875 0 0 900
 Dr 0 0 0
 At SMD N 00808000
-Ne 0 ""
+Ne 2 "Y1"
 Po 0 3.55
 $EndPAD
 $PAD
 Sh "2" R 2 0.875 0 0 900
 Dr 0 0 0
 At SMD N 00808000
-Ne 0 ""
+Ne 2 "Y1"
 Po -2.05 1.45
 $EndPAD
 $PAD
 Sh "2" R 2 0.875 0 0 900
 Dr 0 0 0
 At SMD N 00808000
-Ne 0 ""
+Ne 2 "Y1"
 Po -2.05 -1.45
 $EndPAD
 $PAD
