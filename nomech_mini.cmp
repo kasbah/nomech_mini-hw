@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by PcbNew date = Sat 13 Apr 2013 18:23:00 BST
+Cmp-Mod V01 Created by PcbNew date = Sat 04 May 2013 13:19:42 BST
 
 BeginCmp
 TimeStamp = /51675C98;
@@ -116,343 +116,343 @@ BeginCmp
 TimeStamp = /5156FF92/51670232;
 Reference = D1;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165AD78;
 Reference = D2;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/516702D5;
 Reference = D3;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165AD8F;
 Reference = D4;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5167037B;
 Reference = D5;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165ADAD;
 Reference = D6;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/51670427;
 Reference = D7;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165ADBC;
 Reference = D8;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/516704D7;
 Reference = D9;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165AE20;
 Reference = D10;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/516704E7;
 Reference = D11;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165AE78;
 Reference = D12;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5167079B;
 Reference = D13;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165AF28;
 Reference = D14;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/516709B7;
 Reference = D15;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165AF3A;
 Reference = D16;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/516709C7;
 Reference = D17;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165AFEA;
 Reference = D18;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/516709D7;
 Reference = D19;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165AFFA;
 Reference = D20;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/516709E7;
 Reference = D21;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165B00A;
 Reference = D22;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/516709F7;
 Reference = D23;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165B018;
 Reference = D24;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/51670D19;
 Reference = D25;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165B02D;
 Reference = D26;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/51670D29;
 Reference = D27;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165B041;
 Reference = D28;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/51670D39;
 Reference = D29;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165B056;
 Reference = D30;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/51670D49;
 Reference = D31;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165B067;
 Reference = D32;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F7D4;
 Reference = D33;
 ValeurCmp = LED;
-IdModule  = KPJA-2107SURCK;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166E5BB;
 Reference = E1;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer_cutout5;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F170;
 Reference = E2;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer_cutout5;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F4E9;
 Reference = E3;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer_cutout5;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F504;
 Reference = E4;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer_cutout5;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166E5C8;
 Reference = E5;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer_cutout5;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F176;
 Reference = E6;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer_cutout5;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F4EF;
 Reference = E7;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer_cutout5;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F50A;
 Reference = E8;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer_cutout5;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F0BC;
 Reference = E9;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer_cutout5;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F17D;
 Reference = E10;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer_cutout5;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F4F6;
 Reference = E11;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer_cutout5;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F511;
 Reference = E12;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer_cutout5;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F0C2;
 Reference = E13;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer_cutout5;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F183;
 Reference = E14;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer_cutout5;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F4FC;
 Reference = E15;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer_cutout5;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F517;
 Reference = E16;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_10mm_2layer_cutout5;
+IdModule  = cap-electrode_16mm;
 EndCmp
 
 BeginCmp
