@@ -1,125 +1,132 @@
-PCBNEW-LibModule-V1  Sat 04 May 2013 23:21:36 BST
+PCBNEW-LibModule-V1  Sun 05 May 2013 19:17:37 BST
 # encoding utf-8
 Units mm
 $INDEX
-cap-electrode_16mm
+cap-electrode_16mm_0603LED
 $EndINDEX
-$MODULE cap-electrode_16mm
-Po 0 0 0 15 518589EA 00000000 ~~
-Li cap-electrode_16mm
+$MODULE cap-electrode_16mm_0603LED
+Po 0 0 0 15 5186A23A 00000000 F~
+Li cap-electrode_16mm_0603LED
 Sc 0
-AR /5166F170
+AR /5166E5BB
 Op 0 0 0
-T0 -0.55 9.55 1.524 1.524 0 0.3048 N V 21 N "E2"
+T0 -0.55 9.55 1.524 1.524 0 0.3048 N V 21 N "E1"
 T1 0.6 -10.25 1.524 1.524 0 0.3048 N V 21 N "CAP-ELECTRODE"
 DS -6.25 -6.25 -6.25 6.25 0.15 21
 DS 6.25 -6.25 6.25 6.25 0.15 21
 DS -6.25 -6.25 6.25 -6.25 0.15 21
 DS -6.25 6.25 6.25 6.25 0.15 21
 $PAD
+Sh "1" R 2.55 0.3 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "X1"
+Po 1.55 -0.4
+$EndPAD
+$PAD
+Sh "2" R 2.85 0.3 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y1"
+Po 1.65 -3.575
+$EndPAD
+$PAD
+Sh "2" R 0.5 0.1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y1"
+Po 1.975 -2.2
+$EndPAD
+$PAD
+Sh "2" R 3.6 0.1 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y1"
+Po 2.175 -0.4
+$EndPAD
+$PAD
+Sh "2" R 0.5 0.1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y1"
+Po 1.975 1.45
+$EndPAD
+$PAD
+Sh "2" R 3.6 0.3 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y1"
+Po 1.65 3.2
+$EndPAD
+$PAD
+Sh "1" R 3.4 0.3 0 0 1800
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "X1"
+Po 0 -1.75
+$EndPAD
+$PAD
 Sh "2" R 10 0.2 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 2 "Y2"
+Ne 2 "Y1"
 Po 0 4.9
 $EndPAD
 $PAD
 Sh "2" R 3.6 0.3 0 0 2700
 Dr 0 0 0
 At SMD N 00888000
-Ne 2 "Y2"
+Ne 2 "Y1"
 Po -1.65 3.2
 $EndPAD
 $PAD
 Sh "2" R 10 0.2 0 0 2700
 Dr 0 0 0
 At SMD N 00888000
-Ne 2 "Y2"
+Ne 2 "Y1"
 Po 4.9 0
-$EndPAD
-$PAD
-Sh "2" R 3.6 0.3 0 0 2700
-Dr 0 0 0
-At SMD N 00888000
-Ne 2 "Y2"
-Po 1.65 -3.2
-$EndPAD
-$PAD
-Sh "2" R 0.7 0.1 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 2 "Y2"
-Po 2.1 -1.45
-$EndPAD
-$PAD
-Sh "2" R 3 0.1 0 0 2700
-Dr 0 0 0
-At SMD N 00888000
-Ne 2 "Y2"
-Po 2.45 0
-$EndPAD
-$PAD
-Sh "2" R 0.7 0.1 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 2 "Y2"
-Po 2.1 1.45
-$EndPAD
-$PAD
-Sh "2" R 3.6 0.3 0 0 2700
-Dr 0 0 0
-At SMD N 00888000
-Ne 2 "Y2"
-Po 1.65 3.2
 $EndPAD
 $PAD
 Sh "2" R 10 0.2 0 0 2700
 Dr 0 0 0
 At SMD N 00888000
-Ne 2 "Y2"
+Ne 2 "Y1"
 Po -4.9 0
 $EndPAD
 $PAD
-Sh "2" R 0.7 0.1 0 0 1800
+Sh "2" R 0.5 0.1 0 0 1800
 Dr 0 0 0
 At SMD N 00888000
-Ne 2 "Y2"
-Po -2.1 1.45
+Ne 2 "Y1"
+Po -1.975 1.45
 $EndPAD
 $PAD
-Sh "2" R 3 0.1 0 0 2700
+Sh "2" R 3.6 0.1 0 0 2700
 Dr 0 0 0
 At SMD N 00888000
-Ne 2 "Y2"
-Po -2.45 0
+Ne 2 "Y1"
+Po -2.175 -0.4
 $EndPAD
 $PAD
-Sh "2" R 0.7 0.1 0 0 1800
+Sh "2" R 0.5 0.1 0 0 1800
 Dr 0 0 0
 At SMD N 00888000
-Ne 2 "Y2"
-Po -2.1 -1.45
+Ne 2 "Y1"
+Po -1.975 -2.2
 $EndPAD
 $PAD
-Sh "1" R 2.3 0.3 0 0 2700
+Sh "2" R 2.85 0.3 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y1"
+Po -1.65 -3.575
+$EndPAD
+$PAD
+Sh "1" R 3.4 0.3 0 0 1800
 Dr 0 0 0
 At SMD N 00888000
 Ne 1 "X1"
-Po 2 0
-$EndPAD
-$PAD
-Sh "2" R 3.6 0.3 0 0 2700
-Dr 0 0 0
-At SMD N 00888000
-Ne 2 "Y2"
-Po -1.65 -3.2
-$EndPAD
-$PAD
-Sh "1" R 3.7 0.3 0 0 1800
-Dr 0 0 0
-At SMD N 00888000
-Ne 1 "X1"
-Po 0 1
+Po 0 0.925
 $EndPAD
 $PAD
 Sh "1" R 3 1 0 0 2700
@@ -136,11 +143,11 @@ Ne 1 "X1"
 Po 3.3 -1.2
 $EndPAD
 $PAD
-Sh "1" R 5.5 1 0 0 2700
+Sh "1" R 5.2 1 0 0 2700
 Dr 0 0 0
 At SMD N 00888000
 Ne 1 "X1"
-Po 0 -3.6
+Po 0.025 -4.275
 $EndPAD
 $PAD
 Sh "1" R 10 1 0 0 2700
@@ -164,18 +171,11 @@ Ne 1 "X1"
 Po 0 -7
 $EndPAD
 $PAD
-Sh "1" R 2.3 0.3 0 0 2700
+Sh "1" R 2.55 0.3 0 0 2700
 Dr 0 0 0
 At SMD N 00888000
 Ne 1 "X1"
-Po -2 0
-$EndPAD
-$PAD
-Sh "1" R 3.7 0.3 0 0 1800
-Dr 0 0 0
-At SMD N 00888000
-Ne 1 "X1"
-Po 0 -1
+Po -1.55 -0.4
 $EndPAD
 $PAD
 Sh "1" R 2.5 16 0 0 0
@@ -191,5 +191,5 @@ At SMD N 00888000
 Ne 1 "X1"
 Po -7.25 0
 $EndPAD
-$EndMODULE cap-electrode_16mm
+$EndMODULE cap-electrode_16mm_0603LED
 $EndLIBRARY

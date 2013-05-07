@@ -1,195 +1,195 @@
-PCBNEW-LibModule-V1  Sat 04 May 2013 23:21:36 BST
+PCBNEW-LibModule-V1  Tue 07 May 2013 13:42:49 BST
 # encoding utf-8
 Units mm
 $INDEX
 cap-electrode_16mm
 $EndINDEX
 $MODULE cap-electrode_16mm
-Po 0 0 0 15 518589EA 00000000 ~~
+Po 0 0 0 15 5188F6C2 00000000 F~
 Li cap-electrode_16mm
 Sc 0
-AR /5166F170
+AR /5166E5BB
 Op 0 0 0
-T0 -0.55 9.55 1.524 1.524 0 0.3048 N V 21 N "E2"
+T0 -0.55 9.55 1.524 1.524 0 0.3048 N V 21 N "E1"
 T1 0.6 -10.25 1.524 1.524 0 0.3048 N V 21 N "CAP-ELECTRODE"
 DS -6.25 -6.25 -6.25 6.25 0.15 21
 DS 6.25 -6.25 6.25 6.25 0.15 21
 DS -6.25 -6.25 6.25 -6.25 0.15 21
 DS -6.25 6.25 6.25 6.25 0.15 21
 $PAD
+Sh "2" R 2.5 0.3 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.675 -3.775
+$EndPAD
+$PAD
+Sh "2" R 2.5 0.3 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.65 3.725
+$EndPAD
+$PAD
+Sh "2" R 5 0.1 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.2 -0.025
+$EndPAD
+$PAD
+Sh "2" R 0.7 0.1 0 0 1800
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 2.525
+$EndPAD
+$PAD
+Sh "2" R 0.7 0.1 0 0 1800
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.9 -2.575
+$EndPAD
+$PAD
+Sh "2" R 0.7 0.1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 -2.55
+$EndPAD
+$PAD
+Sh "2" R 0.7 0.1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 2.55
+$EndPAD
+$PAD
+Sh "2" R 5 0.1 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.2 0
+$EndPAD
+$PAD
+Sh "2" R 2.5 0.3 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.65 3.75
+$EndPAD
+$PAD
+Sh "1" R 5 1 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -3.8
+$EndPAD
+$PAD
+Sh "1" R 3.2 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.475
+$EndPAD
+$PAD
+Sh "1" R 3.1 0.5 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.35 0.075
+$EndPAD
+$PAD
 Sh "2" R 10 0.2 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 2 "Y2"
+Ne 0 ""
 Po 0 4.9
 $EndPAD
 $PAD
-Sh "2" R 3.6 0.3 0 0 2700
+Sh "2" R 2.5 0.3 0 0 2700
 Dr 0 0 0
 At SMD N 00888000
-Ne 2 "Y2"
-Po -1.65 3.2
+Ne 0 ""
+Po -1.675 -3.75
 $EndPAD
 $PAD
 Sh "2" R 10 0.2 0 0 2700
 Dr 0 0 0
 At SMD N 00888000
-Ne 2 "Y2"
+Ne 0 ""
 Po 4.9 0
 $EndPAD
 $PAD
-Sh "2" R 3.6 0.3 0 0 2700
-Dr 0 0 0
-At SMD N 00888000
-Ne 2 "Y2"
-Po 1.65 -3.2
-$EndPAD
-$PAD
-Sh "2" R 0.7 0.1 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 2 "Y2"
-Po 2.1 -1.45
-$EndPAD
-$PAD
-Sh "2" R 3 0.1 0 0 2700
-Dr 0 0 0
-At SMD N 00888000
-Ne 2 "Y2"
-Po 2.45 0
-$EndPAD
-$PAD
-Sh "2" R 0.7 0.1 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 2 "Y2"
-Po 2.1 1.45
-$EndPAD
-$PAD
-Sh "2" R 3.6 0.3 0 0 2700
-Dr 0 0 0
-At SMD N 00888000
-Ne 2 "Y2"
-Po 1.65 3.2
-$EndPAD
-$PAD
 Sh "2" R 10 0.2 0 0 2700
 Dr 0 0 0
 At SMD N 00888000
-Ne 2 "Y2"
+Ne 0 ""
 Po -4.9 0
 $EndPAD
 $PAD
-Sh "2" R 0.7 0.1 0 0 1800
-Dr 0 0 0
-At SMD N 00888000
-Ne 2 "Y2"
-Po -2.1 1.45
-$EndPAD
-$PAD
-Sh "2" R 3 0.1 0 0 2700
-Dr 0 0 0
-At SMD N 00888000
-Ne 2 "Y2"
-Po -2.45 0
-$EndPAD
-$PAD
-Sh "2" R 0.7 0.1 0 0 1800
-Dr 0 0 0
-At SMD N 00888000
-Ne 2 "Y2"
-Po -2.1 -1.45
-$EndPAD
-$PAD
-Sh "1" R 2.3 0.3 0 0 2700
-Dr 0 0 0
-At SMD N 00888000
-Ne 1 "X1"
-Po 2 0
-$EndPAD
-$PAD
-Sh "2" R 3.6 0.3 0 0 2700
-Dr 0 0 0
-At SMD N 00888000
-Ne 2 "Y2"
-Po -1.65 -3.2
-$EndPAD
-$PAD
-Sh "1" R 3.7 0.3 0 0 1800
-Dr 0 0 0
-At SMD N 00888000
-Ne 1 "X1"
-Po 0 1
-$EndPAD
-$PAD
-Sh "1" R 3 1 0 0 2700
-Dr 0 0 0
-At SMD N 00888000
-Ne 1 "X1"
-Po 0 2.35
-$EndPAD
-$PAD
 Sh "1" R 10 1 0 0 2700
 Dr 0 0 0
 At SMD N 00888000
-Ne 1 "X1"
+Ne 0 ""
 Po 3.3 -1.2
 $EndPAD
 $PAD
-Sh "1" R 5.5 1 0 0 2700
+Sh "1" R 2.5 1 0 0 2700
 Dr 0 0 0
 At SMD N 00888000
-Ne 1 "X1"
-Po 0 -3.6
+Ne 0 ""
+Po 0 2.55
 $EndPAD
 $PAD
 Sh "1" R 10 1 0 0 2700
 Dr 0 0 0
 At SMD N 00888000
-Ne 1 "X1"
+Ne 0 ""
 Po -3.3 -1.2
 $EndPAD
 $PAD
 Sh "1" R 16 2 0 0 1800
 Dr 0 0 0
 At SMD N 00888000
-Ne 1 "X1"
+Ne 0 ""
 Po 0 7
 $EndPAD
 $PAD
 Sh "1" R 16 2 0 0 1800
 Dr 0 0 0
 At SMD N 00888000
-Ne 1 "X1"
+Ne 0 ""
 Po 0 -7
 $EndPAD
 $PAD
-Sh "1" R 2.3 0.3 0 0 2700
+Sh "1" R 3.1 0.5 0 0 2700
 Dr 0 0 0
 At SMD N 00888000
-Ne 1 "X1"
-Po -2 0
-$EndPAD
-$PAD
-Sh "1" R 3.7 0.3 0 0 1800
-Dr 0 0 0
-At SMD N 00888000
-Ne 1 "X1"
-Po 0 -1
+Ne 0 ""
+Po -1.35 0.025
 $EndPAD
 $PAD
 Sh "1" R 2.5 16 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 1 "X1"
+Ne 0 ""
 Po 7.25 0
 $EndPAD
 $PAD
 Sh "1" R 16 2.5 0 0 900
 Dr 0 0 0
 At SMD N 00888000
-Ne 1 "X1"
+Ne 0 ""
 Po -7.25 0
+$EndPAD
+$PAD
+Sh "1" R 3.2 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.475
 $EndPAD
 $EndMODULE cap-electrode_16mm
 $EndLIBRARY

@@ -1,4 +1,4 @@
-update=Sat 04 May 2013 13:18:35 BST
+update=Tue 07 May 2013 14:05:24 BST
 version=1
 last_client=pcbnew
 [general]
@@ -56,8 +56,8 @@ LastNetListRead=nomech_mini.net
 UseCmpFile=1
 PadDrill="    0.000000"
 PadDrillOvalY="    0.000000"
-PadSizeH="    3.950000"
-PadSizeV="    0.100000"
+PadSizeH="    1.000000"
+PadSizeV="    1.000000"
 PcbTextSizeV="    2.032000"
 PcbTextSizeH="    1.524000"
 PcbTextThickness="    0.304800"
@@ -91,3 +91,8 @@ LibName17=libs/KPJA-2107SURCK
 LibName18=libs/NX7002AK
 LibName19=libs/cap_electrode_14mm
 LibName20=libs/cap_electrode_16mm
+LibName21=libs/cap_electrode_16mm_0603LED
+LibName22=libs/KPJA-2107SxxCK
+LibName23=libs/cap_electrode_16mm_non-planar
+LibName24=libs/cap_electrode_16mm_reverseLED
+LibName25=libs/cap_electrode_16mm_non-planar_0603LED

@@ -1,0 +1,83 @@
+PCBNEW-LibModule-V1  Tue 07 May 2013 13:53:10 BST
+# encoding utf-8
+Units mm
+$INDEX
+cap_non-planar
+$EndINDEX
+$MODULE cap_non-planar
+Po 0 0 0 15 5188F92A 00000000 ~~
+Li cap_non-planar
+Sc 0
+AR /5166F4E9
+Op 0 0 0
+T0 0.325 11.975 1.524 1.524 0 0.3048 N V 21 N "E3"
+T1 1.275 10.275 1.524 1.524 0 0.3048 N V 21 N "CAP-ELECTRODE"
+DS -8.1 -8.1 8.1 -8.1 0.15 21
+DS 8.1 -8.1 8.1 8.1 0.15 21
+DS 8.1 8.1 -8.1 8.1 0.15 21
+DS -8.1 8.1 -8.1 -8.1 0.15 21
+$PAD
+Sh "2" R 12 0.4 0 0 1800
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y3"
+Po 0 1.7
+$EndPAD
+$PAD
+Sh "2" R 12 0.4 0 0 1800
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y3"
+Po 0 -1.8
+$EndPAD
+$PAD
+Sh "2" R 12 0.4 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y3"
+Po 2.1 0
+$EndPAD
+$PAD
+Sh "2" R 12 0.4 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y3"
+Po -2.1 0
+$EndPAD
+$PAD
+Sh "2" R 12 0.4 0 0 1800
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y3"
+Po 0 5.85
+$EndPAD
+$PAD
+Sh "2" R 12 0.4 0 0 1800
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y3"
+Po 0 -5.8
+$EndPAD
+$PAD
+Sh "2" R 12 0.4 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y3"
+Po 5.8 0
+$EndPAD
+$PAD
+Sh "1" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00880001
+Ne 1 "X1"
+Po -0.025 -7.25
+$EndPAD
+$PAD
+Sh "2" R 12 0.4 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y3"
+Po -5.8 0
+$EndPAD
+$EndMODULE cap_non-planar
+$EndLIBRARY
