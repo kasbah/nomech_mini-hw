@@ -1,0 +1,178 @@
+PCBNEW-LibModule-V1  Fri 10 May 2013 16:44:35 BST
+# encoding utf-8
+Units mm
+$INDEX
+cap-electrode_16mm_reverseLED2
+$EndINDEX
+$MODULE cap-electrode_16mm_reverseLED2
+Po 0 0 0 15 518D15D6 00000000 ~~
+Li cap-electrode_16mm_reverseLED2
+Sc 0
+AR /5166F170
+Op 0 0 0
+T0 77.125 -2.35 1.524 1.524 0 0.3048 N V 21 N "E2"
+T1 71.425 -5.975 1.524 1.524 0 0.3048 N V 21 N "CAP-ELECTRODE"
+DS -8.25 -8 -8.25 8 0.15 21
+DS -8.25 8 8.25 8 0.15 21
+DS 8.25 8 8.25 -8 0.15 21
+DS 8.25 -8 -8.25 -8 0.15 21
+DS -6.25 -6 -6.25 6 0.15 21
+DS -6.25 6 6.25 6 0.15 21
+DS 6.25 6 6.25 -6 0.15 21
+DS 6.25 -6 -6.25 -6 0.15 21
+$PAD
+Sh "2" R 2.5 0.3 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y2"
+Po 1.675 -3.775
+$EndPAD
+$PAD
+Sh "2" R 2.5 0.3 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y2"
+Po 1.65 3.725
+$EndPAD
+$PAD
+Sh "2" R 5 0.1 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y2"
+Po 2.2 -0.025
+$EndPAD
+$PAD
+Sh "2" R 0.7 0.1 0 0 1800
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y2"
+Po 1.9 2.525
+$EndPAD
+$PAD
+Sh "2" R 0.7 0.1 0 0 1800
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y2"
+Po 1.9 -2.575
+$EndPAD
+$PAD
+Sh "2" R 0.7 0.1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y2"
+Po -1.9 -2.55
+$EndPAD
+$PAD
+Sh "2" R 0.7 0.1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y2"
+Po -1.9 2.55
+$EndPAD
+$PAD
+Sh "2" R 5 0.1 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y2"
+Po -2.2 0
+$EndPAD
+$PAD
+Sh "2" R 2.5 0.3 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y2"
+Po -1.65 3.75
+$EndPAD
+$PAD
+Sh "1" R 5 1 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "X1"
+Po 0 -3.8
+$EndPAD
+$PAD
+Sh "1" R 3.2 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "X1"
+Po 0 1.475
+$EndPAD
+$PAD
+Sh "1" R 3.1 0.5 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "X1"
+Po 1.35 0.075
+$EndPAD
+$PAD
+Sh "2" R 10 0.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y2"
+Po 0 4.9
+$EndPAD
+$PAD
+Sh "2" R 2.5 0.3 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y2"
+Po -1.675 -3.75
+$EndPAD
+$PAD
+Sh "2" R 10 0.2 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y2"
+Po 4.9 0
+$EndPAD
+$PAD
+Sh "2" R 10 0.2 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "Y2"
+Po -4.9 0
+$EndPAD
+$PAD
+Sh "1" R 10 1 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "X1"
+Po 3.3 -1.2
+$EndPAD
+$PAD
+Sh "1" R 2.5 1 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "X1"
+Po 0 2.55
+$EndPAD
+$PAD
+Sh "1" R 10 1 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "X1"
+Po -3.3 -1.2
+$EndPAD
+$PAD
+Sh "1" R 2 2 0 0 1800
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "X1"
+Po 0 -7
+$EndPAD
+$PAD
+Sh "1" R 3.1 0.5 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "X1"
+Po -1.35 0.025
+$EndPAD
+$PAD
+Sh "1" R 3.2 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "X1"
+Po 0 -1.475
+$EndPAD
+$EndMODULE cap-electrode_16mm_reverseLED2
+$EndLIBRARY
