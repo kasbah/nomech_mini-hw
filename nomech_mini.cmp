@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by PcbNew date = Fri 10 May 2013 16:38:07 BST
+Cmp-Mod V01 Created by PcbNew date = Tue 14 May 2013 14:15:26 BST
 
 BeginCmp
 TimeStamp = /51570618;
@@ -144,14 +144,14 @@ BeginCmp
 TimeStamp = /5166F7D4;
 Reference = D1;
 ValeurCmp = LED;
-IdModule  = LED-0603;
+IdModule  = APTR3216SxxCK;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165AD78;
 Reference = D2;
 ValeurCmp = LED;
-IdModule  = LED-0603;
+IdModule  = APTR3216SxxCK;
 EndCmp
 
 BeginCmp
@@ -172,14 +172,14 @@ BeginCmp
 TimeStamp = /5156FF92/5165ADBC;
 Reference = D5;
 ValeurCmp = LED;
-IdModule  = LED-0603;
+IdModule  = APTR3216SxxCK;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165AE20;
 Reference = D6;
 ValeurCmp = LED;
-IdModule  = LED-0603;
+IdModule  = APTR3216SxxCK;
 EndCmp
 
 BeginCmp
@@ -200,14 +200,14 @@ BeginCmp
 TimeStamp = /5156FF92/5165AF3A;
 Reference = D9;
 ValeurCmp = LED;
-IdModule  = LED-0603;
+IdModule  = APTR3216SxxCK;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165AFEA;
 Reference = D10;
 ValeurCmp = LED;
-IdModule  = LED-0603;
+IdModule  = APTR3216SxxCK;
 EndCmp
 
 BeginCmp
@@ -228,14 +228,14 @@ BeginCmp
 TimeStamp = /5156FF92/5165B018;
 Reference = D13;
 ValeurCmp = LED;
-IdModule  = LED-0603;
+IdModule  = APTR3216SxxCK;
 EndCmp
 
 BeginCmp
 TimeStamp = /5156FF92/5165B02D;
 Reference = D14;
 ValeurCmp = LED;
-IdModule  = LED-0603;
+IdModule  = APTR3216SxxCK;
 EndCmp
 
 BeginCmp
@@ -256,119 +256,119 @@ BeginCmp
 TimeStamp = /5156FF92/5165B067;
 Reference = D17;
 ValeurCmp = LED;
-IdModule  = LED-0603;
+IdModule  = APTR3216SxxCK;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166E5BB;
 Reference = E1;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_16mm_0603LED2;
+IdModule  = cap-electrode_16mm_reverseLED;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F170;
 Reference = E2;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_16mm_reverseLED2;
+IdModule  = cap-electrode_16mm_reverseLED;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F4E9;
 Reference = E3;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap_non-planar;
+IdModule  = cap-electrode_16mm_reverseLED;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F504;
 Reference = E4;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_non-planar_0603LED;
+IdModule  = cap-electrode_16mm_reverseLED;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166E5C8;
 Reference = E5;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_16mm_0603LED2;
+IdModule  = cap-electrode_16mm_reverseLED;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F176;
 Reference = E6;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_16mm_reverseLED2;
+IdModule  = cap-electrode_16mm_reverseLED;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F4EF;
 Reference = E7;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap_non-planar;
+IdModule  = cap-electrode_16mm_reverseLED;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F50A;
 Reference = E8;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_non-planar_0603LED;
+IdModule  = cap-electrode_16mm_reverseLED;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F0BC;
 Reference = E9;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_16mm_0603LED2;
+IdModule  = cap-electrode_16mm_reverseLED;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F17D;
 Reference = E10;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_16mm_reverseLED2;
+IdModule  = cap-electrode_16mm_reverseLED;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F4F6;
 Reference = E11;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap_non-planar;
+IdModule  = cap-electrode_16mm_reverseLED;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F511;
 Reference = E12;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_non-planar_0603LED;
+IdModule  = cap-electrode_16mm_reverseLED;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F0C2;
 Reference = E13;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_16mm_0603LED2;
+IdModule  = cap-electrode_16mm_reverseLED;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F183;
 Reference = E14;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_16mm_reverseLED2;
+IdModule  = cap-electrode_16mm_reverseLED;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F4FC;
 Reference = E15;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap_non-planar;
+IdModule  = cap-electrode_16mm_reverseLED;
 EndCmp
 
 BeginCmp
 TimeStamp = /5166F517;
 Reference = E16;
 ValeurCmp = CAP-ELECTRODE;
-IdModule  = cap-electrode_non-planar_0603LED;
+IdModule  = cap-electrode_16mm_reverseLED;
 EndCmp
 
 BeginCmp
