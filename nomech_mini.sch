@@ -401,13 +401,13 @@ Text Label 3750 5700 2    60   ~ 0
 ISP_MISO
 Text Label 3750 5500 2    60   ~ 0
 ISP_SCK
-Text GLabel 6500 6800 2    60   Input ~ 0
-LED_COLUMN_1
-Text GLabel 6500 6650 2    60   Input ~ 0
-LED_COLUMN_2
-Text GLabel 6500 6500 2    60   Input ~ 0
-LED_COLUMN_3
 Text GLabel 6500 6350 2    60   Input ~ 0
+LED_COLUMN_1
+Text GLabel 6500 6500 2    60   Input ~ 0
+LED_COLUMN_2
+Text GLabel 6500 6650 2    60   Input ~ 0
+LED_COLUMN_3
+Text GLabel 6500 6800 2    60   Input ~ 0
 LED_COLUMN_4
 Text GLabel 6100 5500 2    60   Input ~ 0
 LED_ROW_1
