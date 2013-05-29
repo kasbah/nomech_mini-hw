@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Wed 08 May 2013 17:46:27 BST
+EESchema Schematic File Version 2
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -39,7 +39,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 2
 Title ""
-Date "8 may 2013"
+Date "29 may 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -417,13 +417,13 @@ Text GLabel 6100 5300 2    60   Input ~ 0
 LED_ROW_4
 Text GLabel 5650 6350 2    60   Input ~ 0
 LED_ROW_2
-Text GLabel 4700 4050 1    60   Input ~ 0
-AN_1
-Text GLabel 5100 4050 1    60   Input ~ 0
-AN_2
 Text GLabel 4800 4050 1    60   Input ~ 0
+AN_1
+Text GLabel 4700 4050 1    60   Input ~ 0
+AN_2
+Text GLabel 5000 4050 1    60   Input ~ 0
 AN_3
-Text GLabel 5200 4050 1    60   Input ~ 0
+Text GLabel 4900 4050 1    60   Input ~ 0
 AN_4
 $Comp
 L GND #PWR016
@@ -475,11 +475,11 @@ Text GLabel 9450 5800 0    60   Output ~ 0
 AN_4
 Text GLabel 10750 5250 2    60   Input ~ 0
 Y2
-Text GLabel 4900 4050 1    60   Input ~ 0
+Text GLabel 5200 4050 1    60   Input ~ 0
 AN_5
-Text GLabel 6100 5100 2    60   Input ~ 0
+Text GLabel 5100 4050 1    60   Input ~ 0
 AN_6
-Text GLabel 5000 4050 1    60   Input ~ 0
+Text GLabel 6100 5200 2    60   Input ~ 0
 AN_7
 $Comp
 L R R2
@@ -602,7 +602,7 @@ Text GLabel 9500 9300 0    60   Input ~ 0
 SLOPE
 Text GLabel 4100 6250 0    60   Output ~ 0
 SLOPE
-Text GLabel 6100 5200 2    60   Input ~ 0
+Text GLabel 6100 5100 2    60   Input ~ 0
 AN_8
 NoConn ~ 8050 5100
 $Comp
