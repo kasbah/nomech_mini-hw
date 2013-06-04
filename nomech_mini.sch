@@ -39,7 +39,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 2
 Title ""
-Date "29 may 2013"
+Date "30 may 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -1047,6 +1047,17 @@ F 3 "" H 2750 4200 60  0000 C CNN
 	1    2750 4200
 	1    0    0    -1  
 $EndComp
+$Comp
+L C C19
+U 1 1 51A71665
+P 2500 9650
+F 0 "C19" H 2540 9674 70  0000 L BNN
+F 1 "100nF" H 2539 9485 70  0000 L BNN
+F 2 "SM0805" H 2539 9585 70  0001 C CNN
+F 3 "" H 2500 9650 60  0001 C CNN
+	1    2500 9650
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
 	2100 5050 2150 5050
 Wire Wire Line
@@ -1344,13 +1355,13 @@ Wire Wire Line
 Connection ~ 3450 9900
 Connection ~ 3450 9400
 Wire Wire Line
-	2950 9400 4550 9400
+	2500 9400 4950 9400
 Connection ~ 4050 9400
 Wire Wire Line
 	3700 9400 3700 9250
 Connection ~ 3700 9400
 Wire Wire Line
-	2950 9900 4550 9900
+	2500 9900 4950 9900
 Connection ~ 4050 9900
 Wire Wire Line
 	2950 9400 2950 9450
@@ -1484,4 +1495,27 @@ Wire Wire Line
 	6050 4900 6100 4900
 Wire Wire Line
 	6050 5000 6100 5000
+Wire Wire Line
+	2500 9450 2500 9400
+Connection ~ 2950 9400
+Wire Wire Line
+	2500 9850 2500 9900
+Connection ~ 2950 9900
+$Comp
+L C C20
+U 1 1 51A71989
+P 4950 9650
+F 0 "C20" H 4990 9674 70  0000 L BNN
+F 1 "10nF" H 4989 9485 70  0000 L BNN
+F 2 "SM0805" H 4989 9585 70  0001 C CNN
+F 3 "" H 4950 9650 60  0001 C CNN
+	1    4950 9650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 9400 4950 9450
+Connection ~ 4550 9400
+Wire Wire Line
+	4950 9900 4950 9850
+Connection ~ 4550 9900
 $EndSCHEMATC
