@@ -1,4 +1,4 @@
-update=Fri 10 May 2013 16:37:29 BST
+update=Tue 04 Jun 2013 18:42:28 BST
 version=1
 last_client=pcbnew
 [general]
@@ -56,8 +56,8 @@ LastNetListRead=nomech_mini.net
 UseCmpFile=1
 PadDrill="    0.000000"
 PadDrillOvalY="    0.000000"
-PadSizeH="   16.000000"
-PadSizeV="    2.000000"
+PadSizeH="   10.000000"
+PadSizeV="    0.200000"
 PcbTextSizeV="    2.032000"
 PcbTextSizeH="    1.524000"
 PcbTextThickness="    0.304800"
@@ -98,3 +98,4 @@ LibName24=libs/cap_electrode_16mm_reverseLED
 LibName25=libs/cap_electrode_16mm_non-planar_0603LED
 LibName26=libs/cap_electrode_16mm_reverseLED2
 LibName27=libs/cap_electrode_16mm_0603LED2
+LibName28=libs/cap_electrode_16mm_reverseLED3
