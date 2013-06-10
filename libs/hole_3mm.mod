@@ -1,0 +1,26 @@
+PCBNEW-LibModule-V1  Mon 10 Jun 2013 17:54:13 BST
+# encoding utf-8
+Units mm
+$INDEX
+HOLE
+$EndINDEX
+$MODULE HOLE
+Po 0 0 0 15 51B604A4 00000000 ~~
+Li HOLE
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+Sc 0
+AR /4F3CED6E
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "HOLE3"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "CONN_1"
+DC 0 0 0 -2.286 0.381 21
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 2.99974 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE HOLE
+$EndLIBRARY
