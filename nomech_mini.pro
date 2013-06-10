@@ -1,4 +1,4 @@
-update=Fri 07 Jun 2013 03:01:20 BST
+update=Mon 10 Jun 2013 15:01:38 BST
 version=1
 last_client=pcbnew
 [general]
@@ -100,3 +100,4 @@ LibName26=libs/cap_electrode_16mm_reverseLED2
 LibName27=libs/cap_electrode_16mm_0603LED2
 LibName28=libs/cap_electrode_16mm_reverseLED3
 LibName29=libs/dp_pcb-v1_2
+LibName30=libs/SM0805_nop
