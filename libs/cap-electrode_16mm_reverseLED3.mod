@@ -1,21 +1,17 @@
-PCBNEW-LibModule-V1  Mon 10 Jun 2013 18:07:18 BST
+PCBNEW-LibModule-V1  Wed 12 Jun 2013 18:14:31 BST
 # encoding utf-8
 Units mm
 $INDEX
 cap-electrode_16mm_reverseLED3
 $EndINDEX
 $MODULE cap-electrode_16mm_reverseLED3
-Po 0 0 0 15 51B607B1 00000000 F~
+Po 0 0 0 15 51B8AC65 00000000 F~
 Li cap-electrode_16mm_reverseLED3
 Sc 0
-AR /5166E5BB
+AR /5166F4E9
 Op 0 0 0
-T0 0.15 -5.725 1.524 1.524 0 0.3048 N I 21 N "E1"
+T0 0.15 -5.725 1.524 1.524 0 0.3048 N I 21 N "E3"
 T1 0.3 5.075 1.524 1.524 0 0.3048 N I 21 N "CAP-ELECTRODE"
-DS -6.25 -6.25 -6.25 6.25 0.15 21
-DS 6.25 -6.25 6.25 6.25 0.15 21
-DS -6.25 -6.25 6.25 -6.25 0.15 21
-DS -6.25 6.25 6.25 6.25 0.15 21
 $PAD
 Sh "" R 2.5 0.3 0 0 2700
 Dr 0 0 0
@@ -125,7 +121,7 @@ $PAD
 Sh "2" R 10 0.2 0 0 2700
 Dr 0 0 0
 At SMD N 00888000
-Ne 2 "Y1"
+Ne 2 "Y3"
 Po -4.9 0
 $EndPAD
 $PAD
